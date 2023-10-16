@@ -1,8 +1,7 @@
 {
-    "name": "your-vendor-name/package-name",
-    "description": "A short description of what your package does",
+    "name": "bahanley/binaryTranslator",
+    "description": "Package provides two functions that can translate between decimal and binary",
     "require": {
         "php": ">=8.2",
-        "another-vendor/package": "1.*"
     }
 }
