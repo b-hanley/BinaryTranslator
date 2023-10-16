@@ -2,13 +2,9 @@
 
 Project will translate between decimal (base 10) and binary (base 2)
 
-## Getting Started
-
-Explain how to get started with your project.
-
 ### Installation
 
-Provide step-by-step instructions on how to install your project.
+Enter in terminal "composer require bahanley/binary-translator"
 
 ## Usage
 
