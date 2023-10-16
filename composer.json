@@ -1,5 +1,5 @@
 {
-    "name": "bahanley/binaryTranslator",
+    "name": "bahanley/binary-translator",
     "description": "Package provides two functions that can translate between decimal and binary",
     "require": {
         "php": ">=8.2"
