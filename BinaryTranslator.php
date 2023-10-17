@@ -1,4 +1,8 @@
 <?php
+namespace bahanley\binaryTranslator;
+
+class Translate {
+	
 	//base 10 to base 2
 	function b2tob10($init){
 		$count=0;
@@ -26,4 +30,4 @@
 		return $result;
 	}
 
-?>
+}
